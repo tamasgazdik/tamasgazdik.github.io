@@ -4,16 +4,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -25,8 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://kbmdude.github.io/](https://kbmdude.github.io/)
-- Live Site URL: [https://kbmdude.github.io/](https://kbmdude.github.io/)
+- Solution URL: [https://tamasgazdik.github.io/](https://tamasgazdik.github.io/)
+- Live Site URL: [https://tamasgazdik.github.io/](https://tamasgazdik.github.io/)
 
 
 ## My process
@@ -73,7 +75,7 @@ The design is not as responsive as I'd like it to be, there are some width-heigh
 
 ## Author
 
-- Frontend Mentor - [@kbmdude](https://www.frontendmentor.io/profile/kbmdude)
+- Frontend Mentor - [@tamasgazdik](https://www.frontendmentor.io/profile/tamasgazdik)
 
 
 ## Acknowledgments
